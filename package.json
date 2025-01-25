@@ -1,0 +1,24 @@
+{
+  "name": "quiz_application",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "i": "^0.3.7",
+    "next": "15.1.6",
+    "npm": "^11.0.0",
+    "nprogress": "^0.2.0",
+    "prismjs": "^1.29.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.5.1",
+    "react-perfect-scrollbar": "^1.5.8",
+    "react-redux": "^9.2.0"
+  }
+}
